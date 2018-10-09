@@ -55,6 +55,6 @@ namespace kortSpilConsole
             }
             return navn;
         }
-        public StringBuilder //blablabalhsafhds
+        public StringBuilder //kan du læse det her
     }
 }
